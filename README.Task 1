@@ -18,15 +18,3 @@ To successfully complete the internship, a minimum of 3 tasks must be developed 
 
 ## 🚀 Completed Tasks
 
-### 🔹 Task 1: Chatbot with Rule-Based Responses
-* **Objective:** Build a simple conversational assistant using text logic pattern matching and control structures to simulate fluid interactive flows.
-* **Key Implementation Details:**
-  * Case-insensitive text normalization.
-  * Standardized python entry points (`__main__`) equipped with dynamic safety `try-except` loops to seamlessly catch keyboard interruptions (`Ctrl+C`).
-  * Instant execution flow requiring zero heavy deep learning dependencies.
-
-### How to Run Locally:
-Ensure you have Python installed on your machine. Clone this repository or locate your script file, then execute the following command in your terminal, VS Code, or Anaconda prompt:
-
-```bash
-python chatbot.py
