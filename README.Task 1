@@ -11,7 +11,7 @@ To successfully complete the internship, a minimum of 3 tasks must be developed 
 | Task Number | Project Title | Description | Status |
 | :--- | :--- | :--- | :--- |
 | **Task 1** | Chatbot with Rule-Based Responses | A Python-based virtual assistant that maps user inputs to structured, predefined logical conditions. | **Completed** ✅ |
-| **Task 2** | Tic-Tac-Toe AI | An unbeatable game agent optimized using the Minimax search algorithm. | *In Progress* ⏳ |
+| **Task 2** | Tic-Tac-Toe AI | An unbeatable game agent optimized using the Minimax search algorithm. | **Completed** ✅ |
 | **Task 4** | Recommendation System | A program designed to recommend items (movies/books) utilizing content-based filtering logic. | *In Progress* ⏳ |
 
 ---
